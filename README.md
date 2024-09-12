@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
 <h3 align="center">오늘부터 열심히 산다</h3>
-<div align="center">
-  <p>를 외치는 사람</p>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=300&section=footer" />
+
 <!--
 **S2ej1n/S2ej1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
