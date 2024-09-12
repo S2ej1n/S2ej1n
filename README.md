@@ -27,7 +27,9 @@
 </div>
 <h3 align="center">오늘부터 열심히 산다</h3>
 <div align="center">
-  <p>✉️sayjin</p>
+  <p>✉️sayjin@pukyong.ac.kr <br/>
+  ✏️https://s2ej1n.tistory.com/
+  </p>
 </div>
 <!--
 **S2ej1n/S2ej1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
