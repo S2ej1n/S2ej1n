@@ -27,7 +27,7 @@
 </div>
 <h3 align="center">오늘부터 열심히 산다</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=300&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=100&section=footer" />
 
 <!--
 **S2ej1n/S2ej1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
