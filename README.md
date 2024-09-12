@@ -25,8 +25,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
-<h5 align="center">2024.09.11.</h5>
 <h4 align="center">오늘부터 열심히 산다</h4>
+<div align="center">2024.09.11.</div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=100&section=footer" />
 
