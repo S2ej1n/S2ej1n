@@ -14,6 +14,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/androidstudio-34A853.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <!--
