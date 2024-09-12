@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&customColorList==5,10&height=300&section=header&text=Hello,%20S2ejin!&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&customColorList==10&height=300&section=header&text=Hello,%20S2ejin!&fontColor=FFFFFF&fontSize=90&animation=fadeIn" />
 
 ## Hi there 👋
 
