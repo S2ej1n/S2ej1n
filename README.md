@@ -1,6 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F6CECE&height=300&section=header&text=Hello,%20S2ejin!&fontColor=FFFFFF&fontSize=90&animation=fadeIn" />
 
+<h4 align="center">성장하는 개발자를 꿈꿉니다</h4>
+
 <h3 align="center">✨ Study Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -25,7 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
-<h4 align="center">꾸물꾸물 꾸준히</h4>
+
 <h5 align="center">2024. 09. 11. </h5>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=100&section=footer" />
