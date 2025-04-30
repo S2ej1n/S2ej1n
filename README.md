@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
 
+<br/>
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2ej1n&show_icons=true&theme=date_night&hide=stars,contribs&count_private=true)
+
+</div>
+
 <h5 align="center">2024. 09. 11. </h5>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=100&section=footer" />
