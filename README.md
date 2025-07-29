@@ -1,8 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F6CECE&height=300&section=header&text=Hello,%20S2ejin!&fontColor=FFFFFF&fontSize=90&animation=fadeIn" />
 
-<h4 align="center">성장하는 개발자를 꿈꿉니다</h4>
-
 <h3 align="center">✨ Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
