@@ -14,7 +14,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/androidstudio-34A853.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -24,6 +23,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br/>
