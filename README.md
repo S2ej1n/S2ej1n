@@ -33,6 +33,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals" >
+    <img src="https://render.gitanimals.org/farms/S2ej1n" width="400px"/>
+  </a>
+</div>
+
 <h5 align="center">2024. 09. 11. </h5>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F6CECE&height=100&section=footer" />
