@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals" >
-    <img src="https://render.gitanimals.org/farms/S2ej1n" width="400px"/>
+    <img src="https://render.gitanimals.org/farms/S2ej1n" width="500px"/>
   </a>
 </div>
 
